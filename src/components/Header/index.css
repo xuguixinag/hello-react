@@ -1,0 +1,11 @@
+.input{
+    border: 1px solid black;
+    width:150px;
+    height:30px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    box-shadow: inset;
+}
