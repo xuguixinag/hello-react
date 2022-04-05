@@ -15,7 +15,7 @@ export default class App extends Component {
       <div>
             <Header/>
             <div style={{height:'300px',width:'80px',border:'1px solid black'}}>
-              <NavLink to='/home'>首页</NavLink>
+              <NavLink  to='/home'>首页</NavLink>
               <br></br>
               <NavLink to='/person'>个人中心</NavLink>
             </div>
